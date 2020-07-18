@@ -1,6 +1,5 @@
 ## Zero 👨‍💻
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :** Mobile-App & Web Development :iphone: | Cloud :cloud: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
@@ -13,9 +12,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=daohu527&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=daohu527.daohu527) 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> Zero
-
-⭐️ From [Zero](https://github.com/daohu527)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=daohu527.daohu527)  
