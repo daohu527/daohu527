@@ -1,11 +1,11 @@
 ## zero 👨‍💻
 
 ### About
--  **Working :** Autonomous vehicles :iphone: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
+-  **Working :** Autonomous vehicles :blue_car:
+-  **Learning :** Open-Source-Project :fire:	
+-  **Hobbies :** Books :books: | Running :runner:
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Fun fact :** Wisdom is not a product of schooling but of the lifelong attempt to acquire it. :hearts:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
