@@ -7,4 +7,4 @@ If you're passionate about self-driving technology or need assistance with your 
 ### Let's Connect!
 
 - **Join Our Discussions:** Visit [**apolloauto-discuss**](https://groups.google.com/g/apolloauto) to engage in conversations about autonomous vehicles.
-- **Weekly Tech Talks:** Join us every Saturday from 9-10 am (Beijing time) on [Tencent Conference #977-2425-1086](https://meeting.tencent.com/dm/zOYYbjiXnrBm) for insightful tech talks.
+- **Weekly Tech Talks:** Join us every Saturday from 2-3 pm (Beijing time) on [Tencent Conference #977-2425-1086](https://meeting.tencent.com/dm/zOYYbjiXnrBm) for insightful tech talks.
