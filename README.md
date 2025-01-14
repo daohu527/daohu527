@@ -2,7 +2,8 @@
 
 I'm **daohu527**, diving into the exciting realm of autonomous vehicles with my latest project, [wheel.os](https://github.com/wheelos).
 
-If you're passionate about self-driving technology or need assistance with your own projects, feel free to reach out via email: daohu527@gmail.com.
+I have established an autonomous driving company. If you have any project needs, feel free to reach out to me via email at daohu527@gmail.com.
+
 
 ### Let's Connect!
 
